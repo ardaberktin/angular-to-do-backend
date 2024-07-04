@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Angular-to-do-backend.props" />
+</Project>
