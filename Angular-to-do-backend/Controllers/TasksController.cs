@@ -31,7 +31,7 @@ public class TasksController : ControllerBase
     public IActionResult CreateTask([FromBody] TaskItem task)
     {
         var tasks = ReadTasksFromFile();
-        task.Id = tasks.Count + 1; // Simulate auto-increment
+        // task.Id = tasks.Count + 1; // Simulate auto-increment
         tasks.Add(task);
         WriteTasksToFile(tasks);
         return CreatedAtAction(nameof(GetTaskById), new { id = task.Id }, task);
