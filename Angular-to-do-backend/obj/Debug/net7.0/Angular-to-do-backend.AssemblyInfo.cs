@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Angular-to-do-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aee1b67e839afb2fffc02c99c5e4b70d4fb379a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Angular-to-do-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Angular-to-do-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

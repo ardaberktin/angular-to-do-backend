@@ -25,10 +25,11 @@
 /Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/obj/Debug/net7.0/staticwebassets.build.json
 /Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/obj/Debug/net7.0/staticwebassets.development.json
 /Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/obj/Debug/net7.0/scopedcss/bundle/Angular-to-do-backend.styles.css
-/Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/obj/Debug/net7.0/Angular-to-do-backend.csproj.CopyComplete
 /Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/obj/Debug/net7.0/Angular-to-do-backend.dll
 /Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/obj/Debug/net7.0/refint/Angular-to-do-backend.dll
 /Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/obj/Debug/net7.0/Angular-to-do-backend.pdb
 /Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/obj/Debug/net7.0/Angular-to-do-backend.genruntimeconfig.cache
 /Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/obj/Debug/net7.0/ref/Angular-to-do-backend.dll
 /Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/bin/Debug/net7.0/tasks.json
+/Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/obj/Debug/net7.0/Angular-to-do-backend.sourcelink.json
+/Users/ardaberktin/Documents/Visual Studio Code/angular-to-do-backend/Angular-to-do-backend/obj/Debug/net7.0/Angular-.B5C38E75.Up2Date
